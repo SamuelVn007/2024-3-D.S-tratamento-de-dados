@@ -1,0 +1,44 @@
+{
+  "salgados": [
+    {
+      "nome": "Coxinha",
+      "quantidade": 3000
+    },
+    {
+      "nome": "Pastel",
+      "quantidade": 2500
+    },
+    {
+      "nome": "Pão de Queijo",
+      "quantidade": 1500
+    },
+    {
+      "nome": "Esfiha",
+      "quantidade": 1200
+    },
+    {
+      "nome": "Kibe",
+      "quantidade": 800
+    },
+    {
+      "nome": "Bolinha de Queijo",
+      "quantidade": 600
+    },
+    {
+      "nome": "Risoles",
+      "quantidade": 500
+    },
+    {
+      "nome": "Tapioca",
+      "quantidade": 400
+    },
+    {
+      "nome": "Bolinhos de Bacalhau",
+      "quantidade": 300
+    },
+    {
+      "nome": "Pasta de Salgadinhos",
+      "quantidade": 200
+    }
+  ]
+}
