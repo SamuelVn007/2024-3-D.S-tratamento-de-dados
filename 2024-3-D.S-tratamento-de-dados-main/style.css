@@ -62,6 +62,12 @@ nav a{
     border-style: double, 25px, var(--fogo);
 }
 
+span{
+    font-family: var(--fonte-titulo);
+    color: var(--vermelho);
+    font-size: 25px;
+}
+
 footer{
     display: flex;
     align-items: center;
