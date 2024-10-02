@@ -15,7 +15,7 @@ async function vizualizarInformacoes() {
 
     const paragrafo = document.createElement('p')
     paragrafo.classList.add('caixa-grafico__texto')
-    paragrafo.innerHTML = `Em busca de descobrir os salgados mais consumidos no Brasil em 2024, foram feito pesquisas para cerca de 10000 pessoas sobre os salgados que eles mais consomem. Com o auxílio da inteligência artificial do google, foi possivel estimar que o salgado mais consumido foi ${nomeDoSalgado} com um total de aproximadamente ${quantidadeSalgado} e os comentarios ${comentarios}`
+    paragrafo.innerHTML = `Em busca de descobrir os salgados mais consumidos no Brasil em 2024, foram feito pesquisas para cerca de 10000 pessoas sobre os salgados que eles mais consomem. Com o auxílio da inteligência artificial do google, foi possivel estimar que o salgado mais consumido foi ${nomeDoSalgado} com um total de aproximadamente ${quantidadeSalgado} e os comentarios: ${comentarios}`
 
     const caixa = document.getElementById('caixa-grafico')
     caixa.appendChild(paragrafo)
