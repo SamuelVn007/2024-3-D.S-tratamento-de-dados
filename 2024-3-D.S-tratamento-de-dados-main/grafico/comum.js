@@ -8,4 +8,4 @@ const configuraEixo = {
     family: pegarCSS('--fonte-texto')
 }
 
-export{pegarCSS, configuraEixo}
+export{ pegarCSS, configuraEixo }

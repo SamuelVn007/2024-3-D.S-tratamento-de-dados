@@ -1,4 +1,4 @@
-import { pegarCSS, configuraEixo } from "./comum.js"
+import { configuraEixo, pegarCSS } from "./comum.js"
 
 async function criarGraficoBarra(){
     const url= 'https://raw.githubusercontent.com/SamuelVn007/2024-3-D.S-tratamento-de-dados/refs/heads/main/lista.json'
